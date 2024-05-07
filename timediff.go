@@ -4,7 +4,7 @@ import (
 	"sort"
 	"time"
 
-	"github.com/mergestat/timediff/locale"
+	"github.com/hatchet-dev/timediff/locale"
 )
 
 // TimeDiffOption is an option used to customize a call to TimeDiff

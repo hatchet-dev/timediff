@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/mergestat/timediff"
+	"github.com/hatchet-dev/timediff"
 )
 
 var fixtures_ru_RU = map[string]string{

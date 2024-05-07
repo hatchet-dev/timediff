@@ -10,8 +10,8 @@ import (
 	"text/tabwriter"
 	"time"
 
-	"github.com/mergestat/timediff"
-	"github.com/mergestat/timediff/locale"
+	"github.com/hatchet-dev/timediff"
+	"github.com/hatchet-dev/timediff/locale"
 )
 
 var fixtures = map[string]string{

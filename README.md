@@ -1,6 +1,6 @@
-[![Go Reference](https://pkg.go.dev/badge/github.com/mergestat/timediff.svg)](https://pkg.go.dev/github.com/mergestat/timediff)
-[![Go Report Card](https://goreportcard.com/badge/github.com/mergestat/timediff)](https://goreportcard.com/report/github.com/mergestat/timediff)
-[![CI](https://github.com/mergestat/timediff/actions/workflows/ci.yaml/badge.svg)](https://github.com/mergestat/timediff/actions/workflows/ci.yaml)
+[![Go Reference](https://pkg.go.dev/badge/github.com/hatchet-dev/timediff.svg)](https://pkg.go.dev/github.com/hatchet-dev/timediff)
+[![Go Report Card](https://goreportcard.com/badge/github.com/hatchet-dev/timediff)](https://goreportcard.com/report/github.com/hatchet-dev/timediff)
+[![CI](https://github.com/hatchet-dev/timediff/actions/workflows/ci.yaml/badge.svg)](https://github.com/hatchet-dev/timediff/actions/workflows/ci.yaml)
 [![codecov](https://codecov.io/gh/mergestat/timediff/branch/main/graph/badge.svg?token=UHKDZPWYPO)](https://codecov.io/gh/mergestat/timediff)
 
 # timediff
@@ -10,12 +10,12 @@ Output is based on [ranges defined in the Day.js](https://day.js.org/docs/en/dis
 It's currently used by the [`mergestat` command-line interface](https://github.com/mergestat/mergestat).
 
 ```bash
-go get github.com/mergestat/timediff
+go get github.com/hatchet-dev/timediff
 ```
 
 ```golang
 import (
-    "github.com/mergestat/timediff"
+    "github.com/hatchet-dev/timediff"
 )
 
 ```

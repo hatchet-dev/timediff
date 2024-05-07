@@ -6,8 +6,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/mergestat/timediff"
-	"github.com/mergestat/timediff/locale"
+	"github.com/hatchet-dev/timediff"
+	"github.com/hatchet-dev/timediff/locale"
 )
 
 var fixtures_tr_TR = map[string]string{
